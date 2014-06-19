@@ -1,0 +1,29 @@
+body{
+	background-color: rgb(44, 126, 24);
+	margin: 0;
+}
+h1{
+	color: #fff;
+}
+label{
+	color: #fff;
+}
+.center {
+    width: 200px;
+	height: 200px;
+	
+
+	position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	
+	margin: auto;
+}​
+.labelUploadFile{
+	color:#fff;
+}
+.uploadFile{
+	color: #fff;
+}
